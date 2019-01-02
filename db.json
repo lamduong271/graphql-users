@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "firstName": "Lam Duong 3",
+      "id": "3",
+      "age": 10,
+      "companyId": "3"
+    },
+    {
+      "firstName": "Lam xinh cute",
+      "id": "4",
+      "age": 22,
+      "companyId": "4"
+    },
+    {
+      "firstName": "Lam Duong 5",
+      "id": "5",
+      "age": 45,
+      "companyId": "4"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Apple",
+      "id": "1",
+      "description": "iphone"
+    },
+    {
+      "name": "Google",
+      "id": "2",
+      "description": "search"
+    },
+    {
+      "name": "Digia",
+      "id": "3",
+      "description": "IT"
+    },
+    {
+      "name": "Polku",
+      "id": "4",
+      "description": "IT"
+    },
+    {
+      "name": "Meeting Package",
+      "id": "5",
+      "description": "commerce"
+    }
+  ]
+}
